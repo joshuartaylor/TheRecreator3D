@@ -1,0 +1,29 @@
+Parts
+
+(4) M3x8mm Hex Screws
+(1) M5x34mm Hex Screw
+(1) M5 Nut
+(2) M5 Washers
+(1) POM Wheel
+- For MK5 Single Dual Gear Motor
+
+- For the MK5 DoubleGear Single Motor, 
+Remove the 2040 End Caps on the Right Side of the Rails. 
+Attach the Nema 17 motor to the back of the Back Motor mount using 
+the (4) M3x8mm Hex Screws. 
+You’ll combine the (1) M5x34mm Hex Screw with 
+the (1) POM Wheel in between the (2) M5 Washers 
+securing that to the back of the Doubled Gear with 
+the (1) M5 Nut set in the front of the gear. 
+Set this on the back 2040 rail. 
+
+- On the Front 2040 Rail set the “RECREATOR3D - Part 5A - Spool Holder” in place, 
+Using the “RECREATOR3D - Part 7A - Spool Rod” as a guide for straightness, 
+when combined with the back motor mount.
+
+- Using the “RECREATOR3D - Part 7A - Spool Rod” as a guide for straightness, 
+Double check these two parts are straight on the back 2040 Rail 
+Double check the 2 Screws and T Nuts in place on the 2040
+
+
+

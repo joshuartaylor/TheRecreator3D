@@ -1,0 +1,18 @@
+All Parts can be printed at .3mm/.2mm Quality - 3 Shells/Top/Bottom and should have at least 30-50% Infill for Stability.
+
+RECREATOR3D - Part 2 - Heater Block Plate - PETG.stl
+
+This File hold the Heater Block - It should be printed in ABS or PETG with 3 Shells/Top/Bottom with 50% infill to avoid warping from temps and tension pulling forward to the spooler.
+
+
+RECREATOR3D - Part 8 - Small Gear WIDER.stl 
+or  RECREATOR3D - Part 8 - Small Gear.stl 
+and RECREATOR3D - Part 6A - Gear Spool Gear.stl
+
+Can Be printed in PLA - But is Sugguested to be printed in ABS or PETG - I've Have printed these in PLA +/PRO and have been OK with Quality. 
+
+If You are going to print the LITE Single Motor Version - Print the following Spool Mount 
+-RECREATOR3D - Part 5B - Spool Holder.stl
+
+If You are going to print the PRO Dual Motor Version - Print the follwoing Spool Mount
+- RECREATOR3D - Part 5B - Spool Holder - PRO - DUAL MOTOR.stl

@@ -1,0 +1,5 @@
+Print one or the other depending on your screws.
+
+Side mount uses m4X8 and Tnuts
+
+or the standard uses m5x20 with a socket or a button head screw

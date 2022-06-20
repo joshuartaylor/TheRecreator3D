@@ -1,0 +1,3 @@
+Community Firmware fixes some Marlin issues on some boards that have issues with 
+not being able to push the secondary motor through the second extruder. Use this 
+Firmware if you see no movement from motor 2 using extruder 2. 

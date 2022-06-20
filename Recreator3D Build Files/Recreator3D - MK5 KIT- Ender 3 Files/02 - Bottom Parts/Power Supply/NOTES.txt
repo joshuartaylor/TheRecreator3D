@@ -1,0 +1,7 @@
+Print the model depending on the size of your power supply being used.
+
+Large for most standard power supplies.
+
+Slim for the thiner variants.
+
+Small for the compact models.

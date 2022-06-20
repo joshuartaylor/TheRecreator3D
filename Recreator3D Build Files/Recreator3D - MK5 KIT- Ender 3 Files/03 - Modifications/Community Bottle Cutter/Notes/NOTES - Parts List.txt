@@ -1,0 +1,22 @@
+
+- Print all the parts for The Recreator 3D Communtiy Bottle Cutter
+2 - USA Pennies or a washer the size of 19.15mm in diameter x 1.50mm thick
+4 - M3x30 Screws
+4 - M3 Nuts
+2 - M5x34 Bolts - for Holding down the Bearings
+2 - M5 Nuts
+1 - Lead Screw
+1 - Lead Screw Nut
+1 - Lead Screw Motor Coupler - for Safty Top
+4 - M3x12 - for Lead Screw Nut
+1 - POM Wheel - Holds the two bearings used
+
+POM wheel:
+
+BIQU 3D Printer Wheels, 5pcs 3D Printer POM Wheel - https://amzn.to/3rog6aR #ad
+or
+LRONG 4PCS 3D Printer POM Wheel - https://amzn.to/3ueO97c #ad
+
+Weight Tensioner: https://www.dollartree.com/jot-retractable-card-holders-4125x1375-in/307646
+
+Weight Additive: https://www.dollartree.com/white-marble-accent-stones-32oz-bags/16364
