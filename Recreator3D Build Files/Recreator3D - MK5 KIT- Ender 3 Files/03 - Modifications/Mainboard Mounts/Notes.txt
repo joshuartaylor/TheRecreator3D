@@ -1,0 +1,10 @@
+The MK5Kit_RAMPSBoardMount is meant to mount the following boards.
+* Arduino Mega 2560+RAMPS (https://www.amazon.com/Aokin-Printer-Controller-Arduino-Heatsink/dp/B07Q5R6YSK)
+
+*******************************
+
+The MK5Kit_RAMPS24vBoardMount.stl is meant to mount the following boards if the RAMPS has been converted to 24v.
+
+* Arduino Mega 2560+RAMPS (https://www.amazon.com/Aokin-Printer-Controller-Arduino-Heatsink/dp/B07Q5R6YSK)
+* Tobsun EA50-5V Power Converter (https://www.amazon.com/Converter-Regulator-Multiple-Intelligent-Protection/dp/B09CKH8961)
+* SainSmart LM2596 Adjustable Voltage Regulator (https://www.amazon.com/gp/product/B01299MVD8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
