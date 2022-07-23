@@ -1,0 +1,4 @@
+The files in this folder are to mount the RepRap Discount Full Graphic LCD generally used with the Ardnuino Mega 2560+RAMPS 3D printer control board.  The files to mount RAMPS can be found in 03 - Modifications/Mainboard Mounts/RAMPS
+
+The Arduino Mega 2560, RAMPS, and RepRap Discount Full Graphic LDC can be found here:
+https://www.amazon.com/Aokin-Printer-Controller-Arduino-Heatsink/dp/B07Q5R6YSK
